@@ -1,10 +1,3 @@
-<div align="center">
-  <a href="https://open.spotify.com/user/31pug2fz53o75rotoi2w7aaiuefy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pug2fz53o75rotoi2w7aaiuefy&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 **Conhecimentos Gerais**
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -36,6 +29,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+<div align="center">
+  <a href="https://open.spotify.com/user/31pug2fz53o75rotoi2w7aaiuefy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pug2fz53o75rotoi2w7aaiuefy&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
