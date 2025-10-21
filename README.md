@@ -37,7 +37,7 @@
     <p>
     <strong>Like 1999 de Valley</strong>
   </p>
-  <a href="[https://open.spotify.com/user/31pug2fz53o75rotoi2w7aaiuefy](https://open.spotify.com/intl-pt/track/25gacl0dFF9HTclx7Ug7xC)" target="_blank">
+  <a href="https://open.spotify.com/intl-pt/track/25gacl0dFF9HTclx7Ug7xC" target="_blank">
     <img src="https://i.scdn.co/image/ab67616d0000b273e661c05b66f93ae82583cafa" alt="Like1999" width="150"/>
   </a>
 </div>
