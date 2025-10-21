@@ -37,6 +37,7 @@
 </div>
 
 ###
+<h1> </h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krokero/krokero/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krokero/krokero/output/pacman-contribution-graph.svg">
@@ -44,6 +45,7 @@
 </picture>
 
 ###
+<h1> </h1>
 <h1 align="center">Música Favorita</h1>
 <div align="center">
     <p>
