@@ -33,15 +33,12 @@
 
 ###
 **Musica Favorita**
-<iframe 
-  style="border-radius:12px" 
-  src="https://open.spotify.com/embed/track/25gacl0dFF9HTclx7Ug7xC?utm_source=generator" 
-  width="100%" 
-  height="152" 
-  frameBorder="0" 
-  allowfullscreen="" 
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-  loading="lazy">
-</iframe>
+<div align="center">
+  <a href="https://open.spotify.com/user/31pug2fz53o75rotoi2w7aaiuefy">
+    <img src="https://spotify.com/intl-pt/track/25gacl0dFF9HTclx7Ug7xC" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 ###
