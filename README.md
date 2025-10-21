@@ -35,7 +35,7 @@
 <h1 align="center">Música Favorita</h1>
 <div align="center">
   <a href="https://open.spotify.com/user/31pug2fz53o75rotoi2w7aaiuefy" target="_blank">
-    <img src="LINK_DA_IMAGEM_DA_CAPA" alt="Like1999" width="150"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273e661c05b66f93ae82583cafa" alt="Like1999" width="150"/>
   </a>
   <p>
     **Like 1999** de *Valley*
